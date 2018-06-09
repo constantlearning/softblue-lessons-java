@@ -1,0 +1,12 @@
+Link #1:
+Design Patterns in Java Tutorial
+Tutorial que aborda os GoF design patterns aplicados em Java, além de outros patterns muito usados na linguagem.
+http://www.tutorialspoint.com/design_pattern
+	
+Link #2: Java Design Patterns - Example Tutorial
+Mostra exemplos de uso dos GoF design patterns aplicados em Java.
+http://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
+Link #3: Java Desing Patterns
+Artigo do Java World mostrando na prática, em Java, alguns dos GoF design patterns.
+http://www.javaworld.com/blog/java-design-patterns
