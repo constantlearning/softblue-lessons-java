@@ -38,7 +38,7 @@ Herança e Polimorfismo
 Classes Abstratas e Interfaces 
   * Classes e métodos abstratos 
   * Interfaces 
-  *     Métodos default e static em interfaces 
+  * Métodos default e static em interfaces 
 
 Tratamento de Exceções 
   * Checked e unchecked exceptions 
@@ -96,7 +96,7 @@ Mão na Massa: Criando Aplicações na Prática
   * Jogo da velha 
   * Jogo da forca 
   * Agenda de contatos
-  * 
+
 ## Curso de Java Avançado (JV-02)
 
 Desenvolvendo com o uso do Maven 
@@ -212,7 +212,7 @@ Design patterns de comportamento
   * Observer 
   * Strategy 
   * Template Method
-  * 
+
 ## Curso de Java Web com Servlets e JSPs (JV-04)
 
 Funcionamento de aplicações web 
@@ -280,7 +280,7 @@ Estruturando uma aplicação web
   * Servlet como um controller 
   * Estruturação da camada model 
   * Classes de acesso a dados (DAO) 
-  * Entidades 
+  * Entidades
   * Objetos de negócio 
 
 Segurança em Java EE 
