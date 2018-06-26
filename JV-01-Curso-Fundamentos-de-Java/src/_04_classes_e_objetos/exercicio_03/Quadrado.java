@@ -1,4 +1,4 @@
-package _04_classes_e_objetos.exercicio_01.exercicio_03;
+package _04_classes_e_objetos.exercicio_03;
 
 public class Quadrado {
 

@@ -1,4 +1,4 @@
-package _04_classes_e_objetos.exercicio_01.exercicio_04;
+package _04_classes_e_objetos.exercicio_04;
 
 public class Main {
 

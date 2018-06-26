@@ -1,4 +1,4 @@
-package _04_classes_e_objetos.exercicio_01.exercicio_01;
+package _04_classes_e_objetos.exercicio_01;
 
 public class Relogio {
 
