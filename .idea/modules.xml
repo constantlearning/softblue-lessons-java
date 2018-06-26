@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JP-14-Curso-Design-Patterns-em-Java/JP-14-Curso-Design-Patterns-em-Java.iml" filepath="$PROJECT_DIR$/JP-14-Curso-Design-Patterns-em-Java/JP-14-Curso-Design-Patterns-em-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JV-01-Curso-Fundamentos-de-Java/JV-01-Curso-Fundamentos-de-Java.iml" filepath="$PROJECT_DIR$/JV-01-Curso-Fundamentos-de-Java/JV-01-Curso-Fundamentos-de-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JV-02-Curso-Java-Avançado/JV-02-Curso-Java-Avançado.iml" filepath="$PROJECT_DIR$/JV-02-Curso-Java-Avançado/JV-02-Curso-Java-Avançado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JV-04-Curso-Java-Web-com-Servlets-e-JSPs/JV-04-Curso-Java-Web-com-Servlets-e-JSPs.iml" filepath="$PROJECT_DIR$/JV-04-Curso-Java-Web-com-Servlets-e-JSPs/JV-04-Curso-Java-Web-com-Servlets-e-JSPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softblue-lessons-java.iml" filepath="$PROJECT_DIR$/softblue-lessons-java.iml" />
+    </modules>
+  </component>
+</project>
