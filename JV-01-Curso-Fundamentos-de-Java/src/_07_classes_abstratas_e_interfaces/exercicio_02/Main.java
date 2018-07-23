@@ -5,12 +5,12 @@ public class Main {
     public static void main(String[] args) {
 
         ContaBancaria contaCorrente = new ContaCorrente();
-        try{
+        try {
             contaCorrente.depositar(1100.00);
             contaCorrente.sacar(100);
             System.out.println("Saldo Conta Corrente: " + contaCorrente.calcularSaldo());
 
-        } catch (BancoException e){
+        } catch (BancoException e) {
             System.out.println(e.getMessage());
         }
 
@@ -21,6 +21,14 @@ public class Main {
             System.out.println("Saldo Conta Investimento: " + contaInvestimento.calcularSaldo());
         } catch (BancoException e) {
             System.out.println(e.getMessage());
+        }
+
+        try {
+            contaCorrente.transferir(100, contaInvestimento);
+            System.out.println(contaInvestimento.calcularSaldo());
+        } catch (BancoException e) {
+            System.out.println("Saldo Conta Investimento: " + contaInvestimento.calcularSaldo());
+
         }
 
     }
